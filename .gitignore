@@ -27,3 +27,6 @@ app.local.properties
 # logs and tracing
 /trace
 *.log
+
+# app build file
+polychat
